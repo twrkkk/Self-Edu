@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 145. Binary Tree Postorder Traversal", "LeetCode 145. Binary Tree Postorder Traversal\LeetCode 145. Binary Tree Postorder Traversal.csproj", "{E6E6C890-800B-4588-A90F-9FE20C31947D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E6C890-800B-4588-A90F-9FE20C31947D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E6C890-800B-4588-A90F-9FE20C31947D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E6C890-800B-4588-A90F-9FE20C31947D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E6C890-800B-4588-A90F-9FE20C31947D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069915A4-EF7E-49E7-A0BD-13C0A7EA17FB}
+	EndGlobalSection
+EndGlobal
