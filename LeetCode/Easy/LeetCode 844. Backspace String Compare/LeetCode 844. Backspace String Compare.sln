@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 844. Backspace String Compare", "LeetCode 844. Backspace String Compare.csproj", "{19CD63FD-F27E-4AEC-A56C-B292999007A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CD63FD-F27E-4AEC-A56C-B292999007A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CD63FD-F27E-4AEC-A56C-B292999007A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CD63FD-F27E-4AEC-A56C-B292999007A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CD63FD-F27E-4AEC-A56C-B292999007A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B88A3B2-0190-4176-AC73-1AF75D1E18C4}
+	EndGlobalSection
+EndGlobal

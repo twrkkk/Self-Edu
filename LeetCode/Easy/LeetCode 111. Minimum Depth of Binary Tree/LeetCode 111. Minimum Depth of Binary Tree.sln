@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 111. Minimum Depth of Binary Tree", "LeetCode 111. Minimum Depth of Binary Tree.csproj", "{17B9DCA1-84E4-4BC5-A793-E0E4F0106E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B9DCA1-84E4-4BC5-A793-E0E4F0106E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9DCA1-84E4-4BC5-A793-E0E4F0106E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B9DCA1-84E4-4BC5-A793-E0E4F0106E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B9DCA1-84E4-4BC5-A793-E0E4F0106E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A2D600-4777-4EFA-95C1-522929614AB5}
+	EndGlobalSection
+EndGlobal
